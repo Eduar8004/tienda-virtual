@@ -16,7 +16,7 @@
     <string name="open_drawer">Open drawer</string>
     <string name="close_drawer">Close drawer</string>
     <string name="registro_vendedor">Registro Vendedor</string>
-    <string name="nombres">Nombres</string>
+    <string name="nombres">Nombres@@</string>
     <string name="email">Email</string>
     <string name="contrase_a">Contraseña</string>
     <string name="confirmar_contrase_a">Confirmar Contraseña</string>

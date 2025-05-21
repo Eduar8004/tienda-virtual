@@ -21,6 +21,18 @@
            >
 
        </androidx.appcompat.widget.AppCompatImageView>
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/borrar_item"
+            android:layout_width="30dp"
+            android:layout_alignParentEnd="true"
+            android:padding="10dp"
+            android:layout_height="30dp"
+            android:src="@drawable/cerrar"
+            >
+
+        </androidx.appcompat.widget.AppCompatImageView>
+
     </RelativeLayout>
 
 </com.google.android.material.card.MaterialCardView>
