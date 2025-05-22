@@ -30,7 +30,10 @@
             android:name=".Detail"
             android:exported="false" />
         <activity
-            android:name=".Cliente.MainActivityCliente"
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true"
             android:theme="@style/Theme.App.Starting">
             <intent-filter>
