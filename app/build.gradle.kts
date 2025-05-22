@@ -37,6 +37,7 @@ android {
     buildFeatures {
         viewBinding = true
     }
+
 }
 
 dependencies {
@@ -46,6 +47,8 @@ dependencies {
     implementation(libs.material)
     implementation(libs.lottie)
     implementation(libs.androidx.activity)
+    implementation(libs.play.sedrvices.location)
+    implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.constraintlayout)
     implementation( libs.androidx.core.splashscreen)
     implementation(libs.firebaseAuth)
