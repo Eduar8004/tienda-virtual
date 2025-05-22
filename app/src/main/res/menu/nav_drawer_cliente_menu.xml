@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group
+        android:id="@+id/grupo_op"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/op_inicio_c"
+            android:icon="@drawable/ico_inicio"
+            android:title="@string/inicio_cliente"
+
+            />
+        <item
+            android:id="@+id/op_perfil_c"
+            android:icon="@drawable/ico_mi_perfil"
+            android:title="@string/mi_perfil"
+
+            />
+    </group>
+
+    <item
+        android:id="@+id/op_cerrar_sesion_c"
+        android:icon="@drawable/ico_salir"
+        android:title="@string/cerrar_secion_cliente"
+
+        />
+</menu>

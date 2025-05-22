@@ -15,6 +15,7 @@
         >
     <TextView
         android:text="@string/login_vendedor"
+        android:layout_marginTop="50dp"
         android:layout_gravity="center"
         android:textSize="18sp"
         android:textStyle="bold"

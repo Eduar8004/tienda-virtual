@@ -14,6 +14,7 @@
         android:padding="15dp"
         >
         <TextView
+            android:layout_marginTop="50dp"
             android:text="@string/registro_vendedor"
             android:layout_width="wrap_content"
             android:textSize="18sp"
