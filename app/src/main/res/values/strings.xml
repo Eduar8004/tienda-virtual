@@ -27,4 +27,8 @@
     <string name="no_tienes_cuenta">No tienes cuenta?</string>
     <string name="registrarme_vendedor">Registrarme</string>
     <string name="agregar_productos">Agregar Productos</string>
+    <string name="inicio">Inicio</string>
+    <string name="mi_perfil_cliente">Mi perfil</string>
+    <string name="cliente">Cliente</string>
+    <string name="mis_ordenes_c">Mis ordenes</string>
 </resources>
